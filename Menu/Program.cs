@@ -18,7 +18,7 @@ namespace Menu
             Console.SetCursorPosition(30,2);
             Console.Write("********");
             Console.SetCursorPosition(32,3);
-            Console.Write("MENU");
+            Console.Write("* MENU *");
             Console.SetCursorPosition(30,4);
             Console.Write("********");
             Console.SetCursorPosition(15,5);
